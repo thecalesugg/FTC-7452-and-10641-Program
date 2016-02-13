@@ -5,7 +5,23 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 
 /**
- * Created by FirstUser_2 on 2/3/2016.
+ * Created by Atomic Gears on 2/3/2016.
+ *
+ * I move that we combine the teams Iron Giants and Atomic Gears to create the Atomic Giants
+ * Second
+ * The motion has been seconded. We will now discuss the main motion
+ * Madam President
+ * Yes
+ * I move previous question
+ * Previous question has been called for. We will now vote to move previous question
+ * This is a two thirds vote. Please raise your right hand.
+ * Madam Secretary the count
+ * 6 to 0
+ * The vote to move previous question passes. We will now vote on the main motion
+ * All those in favor say aye
+ * Aye
+ * The ayes has it, and the motion passes.
+ *
  */
 public class right extends LinearOpMode {
 

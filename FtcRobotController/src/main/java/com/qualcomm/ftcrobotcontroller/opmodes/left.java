@@ -5,7 +5,10 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 
 /**
- * Created by FirstUser_2 on 2/3/2016.
+ * Created by Atomic Gears on 2/3/2016.
+ *
+ * Which came first the chicken or the egg?
+ *
  */
 public class left extends LinearOpMode {
 
