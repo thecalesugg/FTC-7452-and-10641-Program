@@ -45,7 +45,7 @@ public class IronGiantsAutoBlue extends LinearOpMode {
 
             rightdrive.setPower(1);
             leftdrive.setPower(1);
-            sleep(3500);
+            sleep(3350);
             rightdrive.setPower(0);
             leftdrive.setPower(0);
 
@@ -57,12 +57,12 @@ public class IronGiantsAutoBlue extends LinearOpMode {
 
             rightdrive.setPower(1);
             leftdrive.setPower(1);
-            sleep(500);
+            sleep(600);
             rightdrive.setPower(0);
             leftdrive.setPower(0);
 
             armextension.setPower(1);
-            sleep(400);
+            sleep(600);
             armextension.setPower(0);
             armbase.setPower(1);
             sleep(6000);

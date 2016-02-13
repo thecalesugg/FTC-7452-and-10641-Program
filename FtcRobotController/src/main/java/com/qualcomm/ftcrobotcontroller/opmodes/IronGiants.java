@@ -70,7 +70,7 @@ public class IronGiants extends OpMode {
 
         if (gamepad2.dpad_up) {
             armservo.setPosition(arm_position_up);
-        }
+            }
         if (gamepad2.dpad_right)
             armservo.setPosition(arm_position_open);
 
