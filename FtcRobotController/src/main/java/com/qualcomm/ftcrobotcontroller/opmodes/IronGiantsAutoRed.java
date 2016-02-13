@@ -57,12 +57,12 @@ public class IronGiantsAutoRed extends LinearOpMode {
 
             rightdrive.setPower(1);
             leftdrive.setPower(1);
-            sleep(300);
+            sleep(500);
             rightdrive.setPower(0);
             leftdrive.setPower(0);
 
             armextension.setPower(1);
-            sleep(500);
+            sleep(400);
             armextension.setPower(0);
             armbase.setPower(1);
             sleep(6000);
