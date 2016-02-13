@@ -6,6 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 /**
  * Created by Iron Giants on 2/10/2016.
  * Public Relations is the best :)
+ * GitHub-ed as of 2-13-16
  */
 public class IronGiantsAutoRed extends LinearOpMode {
 
