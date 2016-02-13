@@ -41,6 +41,9 @@ import java.util.Date;
  * TeleOp Mode
  * <p>
  *Enables control of the robot via the gamepad
+ *
+ * Why was six afraid of seven
+ * Because seven was a "Six offender"
  */
 public class NullOp extends OpMode {
 

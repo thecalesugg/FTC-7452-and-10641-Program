@@ -4,7 +4,10 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 /**
- * Created by FirstUser_2 on 2/10/2016.
+ * Created by Iron Giants 7452 on 2/10/2016.
+ * Whenever I heard Oxygen and Magnesium were going out I was like OMg
+ * Personally I was like, NaBrO
+ * HeHe how CuTe
  */
 public class IronGiantsAutoBlue extends LinearOpMode {
 

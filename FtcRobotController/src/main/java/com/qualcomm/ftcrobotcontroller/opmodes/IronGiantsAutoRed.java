@@ -7,8 +7,11 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  * Created by Iron Giants on 2/10/2016.
  * Public Relations is the best :)
  * GitHub-ed as of 2-13-16
- *
- *
+ * 
+ * An proton goes to the doctor
+ * "Doctor I think I am sick"
+ * "Are you sure?"
+ * "I'm positive"
  */
 public class IronGiantsAutoRed extends LinearOpMode {
 

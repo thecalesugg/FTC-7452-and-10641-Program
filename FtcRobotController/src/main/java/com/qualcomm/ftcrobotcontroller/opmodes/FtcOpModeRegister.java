@@ -36,6 +36,11 @@ import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 
 /**
  * Register Op Modes
+ *
+ * Are you Copper and Tellurium because your CuTe
+ *
+ * What did the sheep say when it had a barium shake
+ * Ba
  */
 public class FtcOpModeRegister implements OpModeRegister {
 

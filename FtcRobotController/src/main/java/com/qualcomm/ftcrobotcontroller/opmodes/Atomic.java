@@ -7,9 +7,9 @@ import com.qualcomm.robotcore.hardware.Servo;
 /**
  * Created by Atomic Gears on 11/9/2015.
  *
- * Iron Giants are so awesome omg we love them <3
+ * Whenever I heard Sodium, Bromine and Oxygen were friends again I was like NaBrO
  *
- * Go PR
+ * Iron Giants 4 lyfe
  */
 public class Atomic extends OpMode {
 
